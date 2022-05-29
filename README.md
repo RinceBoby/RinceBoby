@@ -1,8 +1,8 @@
 Hi 👋 My name is Rince Boby
 ===========================
 
-I'm a FLUTTER DEVELOPER..
--------------------------
+FLUTTER DEVELOPER..
+-------------------
 
 I'm a Self Learning Tech enthusiast. Exploring the latest technology in Mobile App Development. After completing my graduation. I'm currently working on my first project in Flutter.
 
