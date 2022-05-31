@@ -48,6 +48,3 @@ I'm a Self Learning Tech enthusiast. Exploring the latest technology in Mobile A
 
 <a href="http://www.github.com/RinceBoby"><img src="https://activity-graph.herokuapp.com/graph?username=RinceBoby&bg_color=22272e&color=f97316&line=ef4444&point=f97316&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/rinceboby"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
